@@ -8,14 +8,6 @@
 
 PHP:8.0
 
-### 文件总数⑤
-
-1. add_student.php
-2. db_connection.php
-3. delete_student.php
-4. get_students.php
-5. index.html
-
 ### 其他
 
 ```php
